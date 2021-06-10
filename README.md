@@ -8,10 +8,10 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shadyaziza@gmail.com)
 
 
-**Progressive**software development team member skilled at optimizing designs based on current
+__Progressive__ software development team member skilled at optimizing designs based on current
 and expected demands. Work effectively in high-pressure environments to meet challenging design
-standards and schedule targets. Expert in programming languages and design tools such as Dart (**Flutter**)
-and **Figma**.
+standards and schedule targets. Expert in programming languages and design tools such as Dart (__Flutter__)
+and __Figma__.
 
 
 
