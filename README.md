@@ -1,6 +1,6 @@
 ## Welcome!
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3434970)](https://stackoverflow.com/users/3434970/shady-aziza)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadyaziza)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadyaziza)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shadyaziza)
 [<img src="https://img.shields.io/github/followers/shadyaziza?label=follow&style=social" height="22" title="Follow me" />](https://github.com/shadyaziza) 
