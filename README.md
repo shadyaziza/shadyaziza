@@ -1,5 +1,5 @@
 ## Welcome!
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3434970)](https://stackoverflow.com/users/3434970/shady-aziza)
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3434970)](https://stackoverflow.com/users/3434970/shady-aziza)<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=shadyaziza&badges=2&show-avatar=false&width:80"/>
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadyaziza)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shadyaziza)
