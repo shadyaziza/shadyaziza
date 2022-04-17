@@ -1,36 +1,37 @@
-## Welcome!
-<!-- [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3434970)](https://stackoverflow.com/users/3434970/shady-aziza)<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=shadyaziza&badges=2&show-avatar=false&width:80"/>
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadyaziza)](https://github.com/anuraghazra/github-readme-stats) --> 
+Hi 👋 My name is Shady Aziza
+============================
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadyaziza&count_private=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+Full Stack Developer
+--------------------
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shadyaziza)
-[<img src="https://img.shields.io/github/followers/shadyaziza?label=follow&style=social" height="22" title="Follow me" />](https://github.com/shadyaziza) 
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/shadyaziza)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shadyaziza@gmail.com)
+Forward-thinking Software Engineer with background working productively in dynamic environments. Fluent in Dart and Go programming languages used to develop software within the entrepreneurial ecosystem. Proud team player focused on achieving project objectives with speed and accuracy.
 
+* 🌍  I'm based in Cairo, Egypt
+* ✉️  You can contact me at [shadyaziza@gmail.com](mailto:shadyaziza@gmail.com)
+* 🧠  I'm learning Animation and Microservices
 
-<!-- __Progressive__ software development team member skilled at optimizing designs based on current
-and expected demands. Work effectively in high-pressure environments to meet challenging design
-standards and schedule targets. Expert in programming languages and design tools such as Dart (__Flutter__)
-and __Figma__. -->
+### Skills
 
+<p align="left">
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
+### Socials
 
-- 🌱 I’m currently learning
+<p align="left"> <a href="https://discord.com/users/ShadyAziza#1182" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/shadyaziza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shadyziza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/3434970" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+### Badges
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50"/></code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" height="50" /></code>
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/shadyaziza"><img src="https://github-readme-stats.vercel.app/api?username=shadyaziza&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shadyaziza's GitHub stats" /></a>
 
-- 💬 Ask me about 
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50"/></code>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" /></code>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" /></code>
-
-- 📫 How to reach me: 
-   - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Aziza#1182 </a>
-
-
-
-
+<a href="http://www.github.com/shadyaziza"><img src="https://activity-graph.herokuapp.com/graph?username=shadyaziza&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
