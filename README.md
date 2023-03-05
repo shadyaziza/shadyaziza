@@ -8,7 +8,6 @@ Forward-thinking Software Engineer with background working productively in dynam
 
 * 🌍  I'm based in Cairo, Egypt
 * ✉️  You can contact me at [shadyaziza@gmail.com](mailto:shadyaziza@gmail.com)
-* 🧠  I'm learning Animation and Microservices
 
 ### Skills
 
