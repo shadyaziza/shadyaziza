@@ -35,4 +35,6 @@ Forward-thinking Software Engineer with background working productively in dynam
 
 <a href="http://www.github.com/shadyaziza"><img src="https://github-readme-stats.vercel.app/api?username=shadyaziza&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shadyaziza's GitHub stats" /></a>
 
-<a href="http://www.github.com/shadyaziza"><img src="https://activity-graph.herokuapp.com/graph?username=shadyaziza&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+ >>username=shadyaziza&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
